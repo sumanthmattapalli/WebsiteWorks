@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Version5]">
+  <test name="Regression Test(failed)">
+    <classes>
+      <class name="com.jaya.webdesign.ver5.ReportingVersion5">
+        <methods>
+          <include name="startingTheBrowser"/>
+          <include name="toggleVerification"/>
+          <include name="urlAndTitleCheck"/>
+          <include name="closingTheBrowser"/>
+        </methods>
+      </class> <!-- com.jaya.webdesign.ver5.ReportingVersion5 -->
+    </classes>
+  </test> <!-- Regression Test(failed) -->
+</suite> <!-- Failed suite [Version5] -->

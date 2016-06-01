@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Version5" duration-ms="4965" started-at="2016-05-31T10:06:31Z" finished-at="2016-05-31T10:06:36Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="4965" started-at="2016-05-31T10:06:31Z" finished-at="2016-05-31T10:06:36Z">
+      <class name="com.jaya.webdesign.ver5.Version5Test">
+        <test-method status="PASS" signature="startingTheBrowser()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="startingTheBrowser" is-config="true" duration-ms="3217" started-at="2016-05-31T11:06:31Z" finished-at="2016-05-31T11:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startingTheBrowser -->
+        <test-method status="PASS" signature="titleVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="titleVerification" duration-ms="615" started-at="2016-05-31T11:06:34Z" finished-at="2016-05-31T11:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerification -->
+        <test-method status="PASS" signature="urlAndTitleCheck()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="urlAndTitleCheck" duration-ms="29" started-at="2016-05-31T11:06:35Z" finished-at="2016-05-31T11:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlAndTitleCheck -->
+        <test-method status="PASS" signature="buttonVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="buttonVerification" duration-ms="72" started-at="2016-05-31T11:06:35Z" finished-at="2016-05-31T11:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonVerification -->
+        <test-method status="PASS" signature="serviceTabVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="serviceTabVerification" duration-ms="118" started-at="2016-05-31T11:06:35Z" finished-at="2016-05-31T11:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceTabVerification -->
+        <test-method status="PASS" signature="serviceSubsectionVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="serviceSubsectionVerification" duration-ms="353" started-at="2016-05-31T11:06:35Z" finished-at="2016-05-31T11:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceSubsectionVerification -->
+        <test-method status="PASS" signature="taglineVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="taglineVerification" duration-ms="44" started-at="2016-05-31T11:06:36Z" finished-at="2016-05-31T11:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taglineVerification -->
+        <test-method status="PASS" signature="serviceImageVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="serviceImageVerification" duration-ms="60" started-at="2016-05-31T11:06:36Z" finished-at="2016-05-31T11:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceImageVerification -->
+        <test-method status="PASS" signature="footerVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="footerVerification" duration-ms="102" started-at="2016-05-31T11:06:36Z" finished-at="2016-05-31T11:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerVerification -->
+        <test-method status="PASS" signature="sloganVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="sloganVerification" duration-ms="91" started-at="2016-05-31T11:06:36Z" finished-at="2016-05-31T11:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sloganVerification -->
+        <test-method status="PASS" signature="toggleVerification()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="toggleVerification" duration-ms="42" started-at="2016-05-31T11:06:36Z" depends-on-methods="com.jaya.webdesign.ver5.Version5Test.urlAndTitleCheck" finished-at="2016-05-31T11:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toggleVerification -->
+        <test-method status="PASS" signature="closingTheBrowser()[pri:0, instance:com.jaya.webdesign.ver5.Version5Test@2c481df6]" name="closingTheBrowser" is-config="true" duration-ms="163" started-at="2016-05-31T11:06:36Z" finished-at="2016-05-31T11:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTheBrowser -->
+      </class> <!-- com.jaya.webdesign.ver5.Version5Test -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Version5 -->
+</testng-results>
