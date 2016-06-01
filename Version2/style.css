@@ -1,0 +1,91 @@
+BODY {
+	
+	Background-color: #E5EDF8;
+}
+
+td {
+	font-family: Tahoma,  Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #5E5E5E; 
+	font-weight:normal; 
+	line-height:14px;
+}
+
+.menu {
+	font-family:   Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #ffffff; 
+	line-height:18px; 
+	text-decoration:none; 
+	font-weight:bold;
+}
+.menu:hover {
+	font-family:   Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #ffffff; 
+	line-height:18px; 
+	text-decoration:underline; 
+	font-weight:bold;
+}
+
+.menu2 {
+	font-family:   Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #464646; 
+	line-height:18px; 
+	text-decoration:underline; 
+	font-weight:bold;
+}
+.menu2:hover {
+	font-family:   Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #464646; 
+	line-height:18px; 
+	text-decoration:underline; 
+	font-weight:bold;
+}
+
+.big {
+	font-family: Tahoma, verdana, Arial, Helvetica, sans-serif; 
+	font-size: 13px; 
+	color: #ffffff; 
+	line-height:16px; 
+	text-decoration:none; 
+	font-weight: bold; 
+}
+
+.large {
+	font-family: Tahoma, verdana, Arial, Helvetica, sans-serif; 
+	font-size: 13px; 
+	color: #4A4A4A; 
+	line-height:15px; 
+	text-decoration:none; 
+	font-weight: bold; 
+}
+
+.caption {
+	font-family: Tahoma, verdana, Arial, Helvetica, sans-serif; 
+	font-size: 16px; 
+	color: #ffffff; 
+	line-height:15px; 
+	text-decoration:none; 
+	font-weight: bold; 
+}
+
+.footermenu {
+	font-family:   Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #EAB246; 
+	line-height:18px; 
+	text-decoration:none; 
+	font-weight:bold;
+}
+.footermenu:hover {
+	font-family:   Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #EAB246; 
+	line-height:18px; 
+	text-decoration:underline; 
+	font-weight:bold;
+}
+
